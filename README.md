@@ -1,1 +1,1 @@
-# ej
+# diabetes prediction
